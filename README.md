@@ -16,7 +16,7 @@ This document can accommodate at least 1500 pages and 1.5 million words and can 
 ## Compile locally with Emacs
 
 The master or main document is main.tex.
-Open this file and run C-c C-c.
+Open this file and run `C-c C-c`.
 This triggers a list of options.
 Select XeLaTeX + Makeindex + BibTeX.
 The preamble in main.tex is configured to use XeLaTeX to enable the minted package for code listings.
